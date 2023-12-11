@@ -20,3 +20,4 @@ const DashboardLayout = async ({ children }: { children: React.ReactNode }) => {
 };
 
 export default DashboardLayout;
+// sample
